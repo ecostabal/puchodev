@@ -63,11 +63,11 @@
 /* 1. TEMPLATE BACKGROUNDS */
 /* 1.1. hero slider IMG BACKGROUND */
 .bg-img-1 {
-background-image: url(../img/unfinished-real-estate-2021-09-24-03-38-50-utc.jpg);
+background-image: url(../img/imgbg1.jpg);
 }
 
 .bg-img-2 {
-background-image: url(../img/background/hero-bg-2.jpg);
+background-image: url(../img/imgbg2.jpg);
 }
 
 .bg-img-3 {
@@ -1360,7 +1360,7 @@ z-index: 1;
 }
 
 .overlay-dark::before {
-background: rgba(0, 0, 0, .55);
+background: rgba(15, 15, 15, 0.55);
 -webkit-pointer-events: none;
    -moz-pointer-events: none;
         pointer-events: none;
